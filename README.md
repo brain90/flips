@@ -3,7 +3,7 @@ Plugin flip payment gateway untuk woocommerce
 
 # Instalasi
 
-* Unduh plugin. Ekstrak pada folder `/website_anda/wp_content/plugins`
+* Unduh flips. Ekstrak pada folder `/website_anda/wp_content/plugins`
 * Aktifkan plugin
 * Akses menu `woocommerce -> settings -> payment`
 * Aktifkan flip payment gateway (geser tombol enabled)
