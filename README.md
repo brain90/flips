@@ -9,7 +9,8 @@ Plugin flip payment gateway untuk woocommerce
 * Aktifkan flip payment gateway (geser tombol enabled)
 * Ubah parameter sesuai konfigurasi flip accept payment milik anda.
 
-![2023-08-07_11-11](https://github.com/brain90/flips/assets/858382/1ea07d3e-9ab4-4910-aa07-3f08a74d06a3)
+![2023-08-07_11-23](https://github.com/brain90/flips/assets/858382/bb9ad342-9de6-4b45-806c-cf75ca8672f9)
+
 
 * Masukkan callback url pada menu kelola api flip.
 
