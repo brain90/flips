@@ -14,7 +14,7 @@ Plugin flip payment gateway untuk woocommerce
 
 * Masukkan callback url pada menu kelola api flip.
 
-`format: https://alamat-domain.com/wc-api/flip`
+`format: https://alamat-domain.tld/wc-api/flip`
 
 ![2023-08-07_11-14](https://github.com/brain90/flips/assets/858382/aa331dc5-bb43-48a2-a7b6-447ce96b53c4)
 
