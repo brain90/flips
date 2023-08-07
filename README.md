@@ -21,3 +21,9 @@ Plugin flip payment gateway untuk woocommerce
 Selesai !. 🎉 
 
 Flip siap digunakan untuk transaksi.
+
+# Screenshot
+
+Halaman Checkout           |  Halaman V/A
+:-------------------------:|:-------------------------:
+![2023-08-07_18-40](https://github.com/brain90/flips/assets/858382/fb513135-9b97-426f-89e8-6b9e8d4e5aec) | ![2023-08-07_18-44](https://github.com/brain90/flips/assets/858382/129b7870-9ac9-426d-a788-3f6d3ba32170)
